@@ -133,3 +133,4 @@ $table = 'remote_imgs'; //表名字
 
 ## 如果有帮助到你 欢迎赞赏 http://33.al/donate
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
